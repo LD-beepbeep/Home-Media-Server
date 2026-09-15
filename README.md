@@ -15,14 +15,14 @@ The project started as a way to create a personal media library and gradually gr
 
 It runs a collection of self-hosted services that I use for:
 
-- 🎬 watching and organising media
-- 📥 managing media downloads
-- 📁 storing and accessing files
-- 📊 monitoring the server
-- 🌐 managing parts of my network
-- 🔐 accessing services remotely
-- 🏠 managing smart-home devices
-- 🔔 sending notifications when something goes wrong
+- watching and organising media
+- managing media downloads
+- storing and accessing files
+- monitoring the server
+- managing parts of my network
+- accessing services remotely
+- managing smart-home devices
+- sending notifications when something goes wrong
 
 ---
 
@@ -49,7 +49,6 @@ Running a server on a laptop creates some interesting challenges around:
 - [Hardware](docs/HARDWARE.md) — Server hardware and storage
 - [Services](docs/SERVICES.md) — Overview of the services running on the server
 - [Setup](docs/SETUP.md) — General setup and installation notes
-- [Troubleshooting](docs/TROUBLESHOOTING.md) — Problems I've encountered and how I solved them
 - [Screenshots](docs/SCREENSHOTS.md) — Screenshots and visual evidence of the project
 - [Security](SECURITY.md) — Pretty obvious isn't it?
 - [License](LICENSE.md) — Project license and usage information
@@ -102,7 +101,7 @@ The main parts of the system are:
 
 ---
 
-## 🗺️ Architecture
+## Architecture
 
 A simplified overview of the system:
 
