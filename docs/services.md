@@ -1,4 +1,4 @@
-# 🧩 Services
+# Services
 
 This document contains an overview of the services running on the home server.
 
@@ -6,7 +6,7 @@ Private URLs and addresses are intentionally omitted from this public repository
 
 ---
 
-## 🎬 Media
+## Media
 
 ### Jellyfin
 
@@ -47,7 +47,7 @@ It gives me a better overview of how the Jellyfin server is being used.
 
 ---
 
-## 📥 Media automation
+## Media automation
 
 ### Sonarr
 
@@ -97,7 +97,7 @@ Byparr is used as part of the automated media workflow when browser-based challe
 
 ---
 
-## 🖥️ Server management
+## Server management
 
 ### Cockpit
 
@@ -150,7 +150,7 @@ Website: https://nginxproxymanager.com/
 
 ---
 
-## 🌐 Networking
+## Networking
 
 ### Tailscale
 
@@ -180,7 +180,7 @@ Watch Your LAN monitors devices connecting to the local network and can notify m
 
 ---
 
-## 🏠 Smart home
+## Smart home
 
 ### Home Assistant
 
@@ -192,7 +192,7 @@ Website: https://www.home-assistant.io/
 
 ---
 
-## 🔔 Notifications
+## Notifications
 
 The server uses Discord notifications for various events.
 
