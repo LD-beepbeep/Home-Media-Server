@@ -1,4 +1,4 @@
-# Home Media Server
+# Home Media Server (This repository is currently under construction)
 
 A self-hosted home media and services server running on an old laptop, built and maintained by me (Lars).
 
@@ -41,6 +41,18 @@ Running a server on a laptop creates some interesting challenges around:
 - network connectivity
 - long-term operation
 - and more yet to come probably :)
+
+---
+
+## Documentation
+
+- [Hardware](docs/HARDWARE.md) — Server hardware and storage
+- [Services](docs/SERVICES.md) — Overview of the services running on the server
+- [Setup](docs/SETUP.md) — General setup and installation notes
+- [Troubleshooting](docs/TROUBLESHOOTING.md) — Problems I've encountered and how I solved them
+- [Screenshots](docs/SCREENSHOTS.md) — Screenshots and visual evidence of the project
+- [Security](SECURITY.md) — Pretty obvious isn't it?
+- [License](LICENSE.md) — Project license and usage information
 
 ---
 
