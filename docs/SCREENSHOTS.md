@@ -6,9 +6,9 @@ This document keeps track of screenshots and photos that demonstrate the project
 
 ## Hardware
 
-- ![The laptop booting..](../screenshots/booting_laptop.jpg)
-- ![The external HDD](../screenshots/external_hdd.jpg)
-- ![The normal setup](../screenshots/closed_laptop.jpg)
+![The laptop booting..](../screenshots/booting_laptop.jpg)
+![The external HDD](../screenshots/external_hdd.jpg)
+![The normal setup](../screenshots/closed_laptop.jpg)
 
 ---
 
