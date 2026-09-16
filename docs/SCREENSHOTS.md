@@ -12,31 +12,22 @@ This document keeps track of screenshots and photos that demonstrate the project
 
 ---
 
-## Operating system
+## Operating system & Management
 
-- [ ] Ubuntu/Linux system information
-- [ ] CPU information
-- [ ] RAM information
-- [ ] Storage information
-
----
-
-## Server management
-
-- [ ] Cockpit overview
-- [ ] Cockpit resource usage
-- [ ] Cockpit storage
-- [ ] Cockpit services
-
----
+![](../screenshots/Cockpit1)
+![](../screenshots/Cockpit2)
+![](../screenshots/Cockpit3)
+![](../screenshots/Cockpit4)
+![](../screenshots/Cockpit5)
 
 ## Media
 
-- [ ] Jellyfin home screen
-- [ ] Jellyfin media library
-- [ ] Jellyfin playback
-- [ ] Jellystat dashboard
-- [ ] Jellyseerr request interface
+![](../screenshots/Jellyfin1)
+![](../screenshots/Jellyfin2)
+![](../screenshots/Jellyfin3)
+![](../screenshots/Jellyfin4)
+![](../screenshots/Jellyfin5)
+![](../screenshots/Jellyfin6)
 
 ---
 
