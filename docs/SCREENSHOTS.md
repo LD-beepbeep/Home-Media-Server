@@ -6,7 +6,7 @@ This document keeps track of screenshots and photos that demonstrate the project
 
 ## Hardware
 
-- [screenshots/booting_laptop.jpg] Photo of the server laptop
+- ![Image Description](../screenshots/booting_laptop) Photo of the server laptop
 - [screenshots/closed_laptop] Photo showing the physical setup
 - [screenshots/external_hdd.jpg] Photo of storage/network hardware
 
