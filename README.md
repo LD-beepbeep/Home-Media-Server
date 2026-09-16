@@ -1,4 +1,4 @@
-# Home Media Server (This repository is currently under construction)
+# Home Media Server
 
 A self-hosted home media and services server running on an old laptop, built and maintained by me (Lars).
 
