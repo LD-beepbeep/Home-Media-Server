@@ -12,10 +12,10 @@ This was not originally intended to be a dedicated server, which makes the proje
 
 | Component | Specification |
 |---|---|
-| Device | Laptop |
-| CPU | TODO |
-| RAM | TODO |
-| Internal storage | TODO |
+| Device | Laptop (Lenovo) |
+| CPU |  Intel Core i7-6500U |
+| RAM | 16 GB (DDR3) |
+| Internal storage | 1TB HDD |
 | Total media storage | 2 TB |
 | Operating system | Ubuntu/Linux |
 | Network | Home network |
